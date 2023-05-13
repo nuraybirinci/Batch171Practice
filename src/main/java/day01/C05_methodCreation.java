@@ -5,7 +5,7 @@ public class C05_methodCreation {
     //main methodun içinde tanımladıgım iki sayinin kareleri toplamini bulan ve yazdiran bir method olusturun
 
     public static void main(String[] args) {
-
+        System.out.println("versiyon");
 
     }
 }
